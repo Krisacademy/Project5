@@ -44,8 +44,6 @@ int main()
     sum = 5 + obj1; // функция
     sum.Output();
    
-    int a = 2 * obj1; // func
-    Point b = obj1 * 2;// func
 
 
 
