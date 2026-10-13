@@ -38,11 +38,7 @@ int main()
     Point obj1(10, 20);
     Point obj2(1, 2);
 
-    Point sum;
-    sum = obj1 + 5; // метод, функция
-    sum.Output();
-    sum = 5 + obj1; // функция
-    sum.Output();
+    
    
 
 
